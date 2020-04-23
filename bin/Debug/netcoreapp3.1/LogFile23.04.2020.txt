@@ -1,0 +1,10 @@
+
+23.04.2020
+Error
+To jest moja wiadomość, ktora jest typu ERROR
+23.04.2020
+Information
+To jest moja wiadomość, ktora jest typu INFORMATION
+23.04.2020
+Warning
+To jest moja wiadomość, ktora jest typu WARNING

@@ -1,0 +1,11 @@
+C:\Users\aslod\Documents\Ważne foldery\PRACA\MyLogger\bin\Debug\netcoreapp3.1\MyLogger.exe
+C:\Users\aslod\Documents\Ważne foldery\PRACA\MyLogger\bin\Debug\netcoreapp3.1\MyLogger.deps.json
+C:\Users\aslod\Documents\Ważne foldery\PRACA\MyLogger\bin\Debug\netcoreapp3.1\MyLogger.runtimeconfig.json
+C:\Users\aslod\Documents\Ważne foldery\PRACA\MyLogger\bin\Debug\netcoreapp3.1\MyLogger.runtimeconfig.dev.json
+C:\Users\aslod\Documents\Ważne foldery\PRACA\MyLogger\bin\Debug\netcoreapp3.1\MyLogger.dll
+C:\Users\aslod\Documents\Ważne foldery\PRACA\MyLogger\bin\Debug\netcoreapp3.1\MyLogger.pdb
+C:\Users\aslod\Documents\Ważne foldery\PRACA\MyLogger\obj\Debug\netcoreapp3.1\MyLogger.csprojAssemblyReference.cache
+C:\Users\aslod\Documents\Ważne foldery\PRACA\MyLogger\obj\Debug\netcoreapp3.1\MyLogger.AssemblyInfoInputs.cache
+C:\Users\aslod\Documents\Ważne foldery\PRACA\MyLogger\obj\Debug\netcoreapp3.1\MyLogger.AssemblyInfo.cs
+C:\Users\aslod\Documents\Ważne foldery\PRACA\MyLogger\obj\Debug\netcoreapp3.1\MyLogger.dll
+C:\Users\aslod\Documents\Ważne foldery\PRACA\MyLogger\obj\Debug\netcoreapp3.1\MyLogger.pdb
